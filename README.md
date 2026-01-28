@@ -1,2 +1,2 @@
 # noteskin-vsrg
-noteskin repo
+my personal noteskin folders
